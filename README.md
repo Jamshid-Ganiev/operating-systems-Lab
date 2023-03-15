@@ -1,14 +1,7 @@
 # Operating-Systems-Lab
 Operating Systems Course repository, with my assignments &amp; code snippets on operating systems, process and memory management, file systems, networking, and security.
-<h2>Week 3</h2>
+<h2 style="color:blue">Week 3</h2>
 
-<style>
-	table, th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-	padding: 10px;
-}
-</style>
 <table>
 		<thead>
 			<tr>
