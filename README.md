@@ -38,6 +38,10 @@ Operating Systems Course repository, with my assignments &amp; code snippets on 
 				<td>Remove an empty directory</td>
 				<td>rmdir directory</td>
 			</tr>
+	<tr>
+				<td>Create a directory with Subdirectory</td>
+				<td>mkdir -p dir/subdir</td>
+			</tr>
 		</tbody>
 	</table>
 
