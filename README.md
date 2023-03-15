@@ -44,7 +44,7 @@ Operating Systems Course repository, with my assignments &amp; code snippets on 
 			</tr>
 		</tbody>
 	</table>
-# Automated Shell Script
+# Automated =Shell Script
 
 This shell script creates a directory structure and adds an automated text to the `week3.sh` file.
 
@@ -67,5 +67,5 @@ echo "echo 'Hello, World!. This is an automated text added inside shell'" >> wee
 
 echo "Executed successfully"
 
-
+```
 # Week 4
