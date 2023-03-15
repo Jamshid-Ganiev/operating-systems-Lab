@@ -1,6 +1,6 @@
 # Operating-Systems-Lab
 Operating Systems Course repository, with my assignments &amp; code snippets on operating systems, process and memory management, file systems, networking, and security.
-## Week 3
+# Week 3
 
 <table>
 		<thead>
@@ -41,4 +41,4 @@ Operating Systems Course repository, with my assignments &amp; code snippets on 
 		</tbody>
 	</table>
 
-## Week 4
+# Week 4
