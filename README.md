@@ -47,7 +47,7 @@ Operating Systems Course repository, with my assignments &amp; code snippets on 
 
 ## 'Automated Shell Script'
 
-### This shell script creates a directory structure and adds an automated text to the `week3.sh` file.
+<h3> This shell script creates a directory structure and adds an automated text to the `week3.sh` file </h3>
 
 ```bash
 #!/bin/bash
