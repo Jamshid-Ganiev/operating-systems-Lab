@@ -45,7 +45,7 @@ Operating Systems Course repository, with my assignments &amp; code snippets on 
 		</tbody>
 	</table>
 
-## 'Automated Shell Script'
+<h2> Automated Shell Script </h2>
 
 <h3> This shell script creates a directory structure and adds an automated text to the `week3.sh` file </h3>
 
