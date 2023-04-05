@@ -49,6 +49,8 @@ Operating Systems Course repository, assignments &amp; code snippets on operatin
 
 <h3> This shell script creates a directory structure and adds an automated text to the `week3.sh` file </h3>
 
+> week3.sh
+
 ```bash
 #!/bin/bash
 
