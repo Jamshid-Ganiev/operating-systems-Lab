@@ -1,5 +1,12 @@
 # Operating-Systems-Lab
 Operating Systems Course repository, assignments &amp; code snippets on operating systems.
+
+# Week 2
+
+## Linux Commands:
+![Linux Commands](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/a8b50180-9cd6-4ce9-b230-4f3f673dcb8c)
+
+
 # Week 3
 
 <table>
