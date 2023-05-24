@@ -70,4 +70,6 @@ echo "echo 'Hello, World!. This is an automated text added inside shell'" >> wee
 
 echo "Executed successfully"
 ```
-# Week 4
+# Week 6
+
+## 
