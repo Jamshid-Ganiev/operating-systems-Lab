@@ -94,4 +94,29 @@ echo "Executed successfully"
 
 # Week 7
 
+### (Oracle Cloud Creating a new Virtual Machine (VM))
+
+### Here are the results of my actions when opening an Oracle cloud virtual machine:
+<img width="297" alt="image" src="https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/eb22bf21-4d7f-4fdc-a5d6-d35d315c46af">
+<img width="392" alt="image" src="https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/2f7f5e47-b96f-463b-823b-00cc143d849e">
+
+### Controlling Services and Daemons - `service_control.sh`
+
+The `service_control.sh` script manages the `nginx` service. It checks if `nginx` is active, starts it if it's not, and then stops it.
+
+### Demo photo:
+<img width="543" alt="image" src="https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/95b3ffa0-2856-40c2-941c-77cb254d4bd4">
+
+<hr/>
+
+# No labs for Week 8-12!
+
+<hr/>
+
+# Week 13
+
+
+
+
+
 
