@@ -77,6 +77,21 @@ echo "echo 'Hello, World!. This is an automated text added inside shell'" >> wee
 
 echo "Executed successfully"
 ```
+
 # Week 6
 
-## 
+1. Date Command and Parsing Current Date - `date_parse.sh`
+2. Redirecting Output to a File - `redirect_output.sh`
+3. Users and Groups - `users_groups.sh`
+4. Processes - `processes.sh`
+5. Process States - `process_states.sh`
+
+## Demo photos:
+![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/46ac5517-3ba2-4526-a23e-876e7e13382d)
+
+![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/a39b8e46-f6ad-4d36-9344-acead648285b)
+
+
+# Week 7
+
+
