@@ -121,6 +121,15 @@ The `service_control.sh` script manages the `nginx` service. It checks if `nginx
 
 1. ![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/db08654d-eb4b-47ad-90c2-14b40093e63d)
 
+The week 13 lab consists of the following scripts:
+
+- `create_files.sh`: Allows the user to create three text files with custom content.
+- `archive_files.sh`: Archives the created text files into a single tarball.
+- `gzip_compression.sh`: Compresses the tarball using gzip compression.
+- `bzip2_compression.sh`: Compresses the tarball using bzip2 compression.
+- `xz_compression.sh`: Compresses the tarball using xz compression.
+- `decompress_files.sh`: Decompresses and extracts the files from the compressed tarballs.
+
 #### Executing files: 
 1. ![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/35b0c6a4-4850-4cd5-8660-62384bddabfa)
 
