@@ -195,6 +195,8 @@ echo "- xz: $xz_size"
 echo "Process completed successfully."
 
 ```
+### Result:
+![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/00f163fa-5829-4e30-8863-3ac691fe8340)
 
 
 
