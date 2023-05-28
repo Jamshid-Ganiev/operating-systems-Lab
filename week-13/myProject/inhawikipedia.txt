@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Inha University - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-enabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled vector-feature-zebra-design-disabled";(function(){var cookie=document.cookie.match(/(?:^|; )enwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a112c16f-64a0-4fc3-940e-ae67307ad48c","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Inha_University","wgTitle":"Inha University","wgCurRevisionId":1155678295,"wgRevisionId":1155678295,"wgArticleId":1748879,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Webarchive template other archives","All articles with bare URLs for citations","Articles with bare URLs for citations from April 2023","CS1 Korean-language sources (ko)","Webarchive template archiveis links","Articles containing Korean-language text","Articles using infobox university","Pages using infobox university with the image name parameter","Pages using infobox university with the affiliations parameter","All articles with unsourced statements","Articles with unsourced statements from January 2019","Articles using infobox templates with no data rows","Articles needing cleanup from April 2017",
+"All pages needing cleanup","Coordinates on Wikidata","Articles with ISNI identifiers","Articles with VIAF identifiers","Articles with WorldCat identifiers","Articles with GND identifiers","Articles with J9U identifiers","Articles with LCCN identifiers","Articles with NLA identifiers","Inha University","Hanjin Group","1954 establishments in South Korea","Educational institutions established in 1954","Private universities and colleges in South Korea"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Inha_University","wgRelevantArticleId":1748879,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},
+"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgCoordinates":{"lat":37.44944444444444,"lon":126.65444444444445},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q488851","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready"
+,"mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.41.0-wmf.10">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-crossorigin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/1200px-Inha_University.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1208">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/800px-Inha_University.svg.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="805">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/640px-Inha_University.svg.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="644">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Inha University - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Inha_University">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Inha_University&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Inha_University">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Inha_University rootpage-Inha_University skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-main-menu-dropdown mw-ui-icon-flush-left mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="vector-main-menu-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-main-menu-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Main menu"
+		
+	/>
+	<label
+		id="vector-main-menu-dropdown-label"
+		for="vector-main-menu-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+
+		<span class="vector-menu-heading-label">Main menu</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Language links are at the top of the page across from the title.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="The Free Encyclopedia"
+			src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search"
+	
+		id=""
+		class="mw-ui-button mw-ui-quiet mw-ui-icon-element search-toggle"
+		title="Search Wikipedia [f]"accesskey="f"><span class="mw-ui-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+			<nav class="vector-user-links" aria-label="Personal tools" role="navigation" >
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Inha+University" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Inha+University" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+<div id="vector-user-links-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-user-menu mw-ui-icon-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox"
+		id="vector-user-links-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-user-links-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Personal tools"
+		
+	/>
+	<label
+		id="vector-user-links-dropdown-label"
+		for="vector-user-links-dropdown-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Inha+University" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Inha+University" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li></ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+					<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="vector-menu-checkbox">
+		<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark vector-sticky-pinned-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>History</div>
+		</a>
+		
+			<button aria-controls="toc-History-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle History subsection
+			</button>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+			<li id="toc-Establishment"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Establishment">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Establishment</div>
+			</a>
+			
+			<ul id="toc-Establishment-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Time_of_expansion_and_development"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Time_of_expansion_and_development">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.2</span>Time of expansion and development</div>
+			</a>
+			
+			<ul id="toc-Time_of_expansion_and_development-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Academic_structure"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Academic_structure">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Academic structure</div>
+		</a>
+		
+			<button aria-controls="toc-Academic_structure-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Academic structure subsection
+			</button>
+		
+		<ul id="toc-Academic_structure-sublist" class="vector-toc-list">
+			<li id="toc-Undergraduate_colleges"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Undergraduate_colleges">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Undergraduate colleges</div>
+			</a>
+			
+			<ul id="toc-Undergraduate_colleges-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Graduate_schools"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Graduate_schools">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Graduate schools</div>
+			</a>
+			
+			<ul id="toc-Graduate_schools-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Facilities"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Facilities">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Facilities</div>
+		</a>
+		
+			<button aria-controls="toc-Facilities-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+				Toggle Facilities subsection
+			</button>
+		
+		<ul id="toc-Facilities-sublist" class="vector-toc-list">
+			<li id="toc-Attached_agencies"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Attached_agencies">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.1</span>Attached agencies</div>
+			</a>
+			
+			<ul id="toc-Attached_agencies-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Research_institutes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Research_institutes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">3.2</span>Research institutes</div>
+			</a>
+			
+			<ul id="toc-Research_institutes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Acceptance_rate_and_Ranking"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Acceptance_rate_and_Ranking">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Acceptance rate and Ranking</div>
+		</a>
+		
+		<ul id="toc-Acceptance_rate_and_Ranking-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notable_alumni"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notable_alumni">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Notable alumni</div>
+		</a>
+		
+		<ul id="toc-Notable_alumni-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+			</div>
+		</nav>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon-flush-left mw-ui-icon-element"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="vector-toc"
+						tabindex="0"
+						title="Table of Contents">
+						<span class="mw-ui-icon mw-ui-icon-wikimedia-listBullet"></span>
+						<span>Toggle the table of contents</span>
+					</label>
+				
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+	<input type="checkbox"
+		id="vector-page-titlebar-toc-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-titlebar-toc"
+		class="vector-menu-checkbox "
+		
+		aria-label="Toggle the table of contents"
+		
+	/>
+	<label
+		id="vector-page-titlebar-toc-label"
+		for="vector-page-titlebar-toc-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon-element "
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+
+		<span class="vector-menu-heading-label">Toggle the table of contents</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Inha University</span></h1>
+				
+							
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox mw-interlanguage-selector"
+		aria-label="Go to an article in another language. Available in 8 languages"
+		
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-8"
+		aria-hidden="true"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+
+		<span class="vector-menu-heading-label">8 languages</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A5%D9%8A%D9%86%D9%87%D8%A7" title="جامعة إينها – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Inha_University" title="Inha University – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90" title="인하대학교 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Universitas_Inha" title="Universitas Inha – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E4%BB%81%E8%8D%B7%E5%A4%A7%E5%AD%A6%E6%A0%A1" title="仁荷大学校 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Inha_Universiteti" title="Inha Universiteti – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Pamantasang_Inha" title="Pamantasang Inha – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%BB%81%E8%8D%B7%E5%A4%A7%E5%AD%B8" title="仁荷大學 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q488851#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Inha_University" title="View the content page [c]" accesskey="c" class=""><span>Article</span></a>
+</li>
+<li id="ca-talk" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Talk:Inha_University" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t" class=""><span>Talk</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a data-mw="interface" href="/wiki/Inha_University" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Inha_University&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="vector-tab-noicon mw-list-item"><a data-mw="interface" href="/w/index.php?title=Inha_University&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="More options">
+								
+<div id="vector-page-tools-dropdown" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox"
+		id="vector-page-tools-dropdown-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-vector-page-tools-dropdown"
+		class="vector-menu-checkbox "
+		
+		aria-label="Tools"
+		
+	/>
+	<label
+		id="vector-page-tools-dropdown-label"
+		for="vector-page-tools-dropdown-checkbox"
+		class="vector-menu-heading "
+		aria-hidden="true"
+		
+	>
+		
+		<span class="vector-menu-heading-label">Tools</span>
+	</label>
+	<div class="vector-menu-content vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Inha_University"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Inha_University&amp;action=edit"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Inha_University&amp;action=history"><span>View history</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Inha_University" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Inha_University" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Inha_University&amp;oldid=1155678295" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Inha_University&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Inha_University&amp;id=1155678295&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q488851" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Inha_University&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Inha_University&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Inha_University" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<nav class="vector-page-tools-landmark vector-sticky-pinned-container" aria-label="More options">
+						<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+			
+						</div>
+	</nav>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-coordinates" class="mw-indicator"><div class="mw-parser-output"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <style data-mw-deduplicate="TemplateStyles:r1156832818">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Inha_University&amp;params=37_26_58_N_126_39_16_E_source:kolossus-kowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°26′58″N</span> <span class="longitude">126°39′16″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.44944°N 126.65444°E</span><span style="display:none">&#xfeff; / <span class="geo">37.44944; 126.65444</span></span></span></a></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For the University in Tashkent, see <a href="/wiki/Inha_University_in_Tashkent" title="Inha University in Tashkent">Inha University in Tashkent</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard"><caption class="infobox-title fn org" style="font-size:125%;">Inha University</caption><tbody><tr><td colspan="2" class="infobox-subheader"><div class="nickname"><span title="Korean-language text"><span lang="ko">인하대학교</span></span></div></td></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:Inha_University.svg" class="image"><img alt="Inha University.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/250px-Inha_University.svg.png" decoding="async" width="250" height="252" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/375px-Inha_University.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Inha_University.svg/500px-Inha_University.svg.png 2x" data-file-width="315" data-file-height="317" /></a></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Motto</th><td class="infobox-data">Truth (眞)</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Type</th><td class="infobox-data"><a href="/wiki/Private_university" title="Private university">Private</a></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Established</th><td class="infobox-data">1954</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;"><a href="/wiki/University_president" class="mw-redirect" title="University president">President</a></th><td class="infobox-data">Cho Myeongwoo</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Academic staff</div></th><td class="infobox-data">859 (full time) and 1,117 (except full time)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;"><a href="/wiki/Undergraduate_education" title="Undergraduate education">Undergraduates</a></th><td class="infobox-data">17,175 (as of 2022)<sup id="cite_ref-eng.inha.ac.kr_2-0" class="reference"><a href="#cite_note-eng.inha.ac.kr-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;"><a href="/wiki/Postgraduate_education" title="Postgraduate education">Postgraduates</a></th><td class="infobox-data">1,716 (as of 2022)<sup id="cite_ref-eng.inha.ac.kr_2-1" class="reference"><a href="#cite_note-eng.inha.ac.kr-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Location</th><td class="infobox-data adr"><div style="display:inline" class="locality"><a href="/wiki/Incheon" title="Incheon">Incheon</a></div>, <div style="display:inline" class="country-name"><a href="/wiki/South_Korea" title="South Korea">South Korea</a></div></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Campus</th><td class="infobox-data"><a href="/wiki/Urban_area" title="Urban area">Urban</a>, 150 <a href="/wiki/Acres" class="mw-redirect" title="Acres">acres</a></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;"><a href="/wiki/School_colors" title="School colors">Colors</a></th><td class="infobox-data"><a href="/wiki/Sky_blue" title="Sky blue">Sky blue</a> <style data-mw-deduplicate="TemplateStyles:r981673959">.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}</style><span class="legend-color" style="background-color:#04A9E0; color:black;">&#160;</span>, <a href="/w/index.php?title=Deep_blue_(color)&amp;action=edit&amp;redlink=1" class="new" title="Deep blue (color) (page does not exist)">Deep blue</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959"><span class="legend-color" style="background-color:#006EB8; color:white;">&#160;</span></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Affiliations</th><td class="infobox-data"><a href="/wiki/Global_U8_Consortium" title="Global U8 Consortium">Global U8 (GU8)</a></td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Mascot</th><td class="infobox-data">Annyong and Induck</td></tr><tr><th scope="row" class="infobox-label" style="padding-right:0.65em;">Website</th><td class="infobox-data"><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/">Official Homepage</a></td></tr><tr><td colspan="2" class="infobox-full-data"><a href="/wiki/File:Inha_University_logotype(en).png" class="image"><img alt="Inha University logotype(en).png" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/Inha_University_logotype%28en%29.png/247px-Inha_University_logotype%28en%29.png" decoding="async" width="247" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fe/Inha_University_logotype%28en%29.png/371px-Inha_University_logotype%28en%29.png 1.5x, //upload.wikimedia.org/wikipedia/en/f/fe/Inha_University_logotype%28en%29.png 2x" data-file-width="440" data-file-height="70" /></a></td></tr></tbody></table>
+<table class="infobox" style="width: 22em"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><tbody><tr><td colspan="2" class="infobox-subheader" style="font-size: 125%; background-color: #b0c4de;"><b>Korean name</b></td></tr><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><tr><th scope="row" class="infobox-label" style="font-weight: normal;"><a href="/wiki/Hangul" title="Hangul">Hangul</a></th><td class="infobox-data"><div style="display: inline; font-size: 1rem;"><span title="Korean-language text"><span lang="ko-Hang"><a href="https://en.wiktionary.org/wiki/%EC%9D%B8" class="extiw" title="wikt:인">인</a><a href="https://en.wiktionary.org/wiki/%ED%95%98" class="extiw" title="wikt:하">하</a><a href="https://en.wiktionary.org/wiki/%EB%8C%80%ED%95%99%EA%B5%90" class="extiw" title="wikt:대학교">대학교</a></span></span></div></td></tr><tr><th scope="row" class="infobox-label" style="font-weight: normal;"><a href="/wiki/Hanja" title="Hanja">Hanja</a></th><td class="infobox-data"><div style="display: inline; font-size: 1rem;"><span title="Korean-language text"><span lang="ko-Hani"><a href="https://en.wiktionary.org/wiki/%E4%BB%81" class="extiw" title="wikt:仁">仁</a><a href="https://en.wiktionary.org/wiki/%E8%8D%B7" class="extiw" title="wikt:荷">荷</a><a href="https://en.wiktionary.org/wiki/%E5%A4%A7%E5%AD%B8%E6%A0%A1" class="extiw" title="wikt:大學校">大學校</a></span></span></div></td></tr><tr><th scope="row" class="infobox-label" style="font-weight: normal;"><a href="/wiki/Revised_Romanization_of_Korean" title="Revised Romanization of Korean">Revised Romanization</a></th><td class="infobox-data"><span title="Revised Romanization of Korean transliteration"><i lang="ko-Latn">Inha Daehakgyo</i></span></td></tr><tr><th scope="row" class="infobox-label" style="font-weight: normal;"><a href="/wiki/McCune%E2%80%93Reischauer" title="McCune–Reischauer">McCune–Reischauer</a></th><td class="infobox-data"><span title="McCune–Reischauer transliteration"><i lang="ko-Latn">Inha Taehakkyo</i></span></td></tr><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg/220px-%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg/330px-%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg/440px-%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg 2x" data-file-width="1536" data-file-height="2048" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%B3%B8%EA%B4%80.jpg" class="internal" title="Enlarge"></a></div>인하대학교 본관</div></div></div>
+<p><b>Inha University</b> (<a href="/wiki/Korean_language" title="Korean language">Korean</a>&#58;&#160;<span title="Korean-language text"><span lang="ko-Hang">인하대학교</span></span>&#59; <a href="/wiki/Hanja" title="Hanja">Hanja</a>&#58;&#160;<span title="Korean-language text"><span lang="ko-Hani">仁荷大學校</span></span>) is a private research university located in <a href="/wiki/Incheon" title="Incheon">Incheon</a>, <a href="/wiki/South_Korea" title="South Korea">South Korea</a>.
+Known traditionally for research and education in the engineering and physical sciences, the university was established by the first president of South Korea, <a href="/wiki/Syngman_Rhee" title="Syngman Rhee">Syngman Rhee</a>. Inha is a Korean-American collaboration school, even in its name: the <a href="/wiki/Morpheme" title="Morpheme">Morpheme</a> "In" (인, 仁) comes from the city of <a href="/wiki/Incheon" title="Incheon">Incheon</a> and "Ha" (하, 荷) from <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>, USA. Started as a polytechnic university in 1954, named <b>Inha Institute of Technology</b> (<a href="/wiki/Acronym" title="Acronym">Acronym</a>: <b>IIT</b>; <a href="/wiki/Korean_language" title="Korean language">Korean</a>, <span title="Korean-language text"><span lang="ko">인하공과대학</span></span>, <i>Inha Gonggwa Daehak</i>, colloquially <i>Inhagongdae</i>), the institute has been achieving national recognition and a strong reputation as a technological research university thereafter.
+</p><p>Inha University is the most well-known and #1 university in Incheon area. Inha was ranked top 10 nationwide through decades according to <a href="/wiki/Joongang_Ilbo" class="mw-redirect" title="Joongang Ilbo">Joongang Ilbo</a>'s annual rankings of South Korean universities; ranked 8th in 2017<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2019)">citation needed</span></a></i>&#93;</sup>. Also, Inha is a member of <a href="/wiki/Global_U8_Consortium" title="Global U8 Consortium">GU8</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Establishment">Establishment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=2" title="Edit section: Establishment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1952,<sup id="cite_ref-ReferenceA_4-0" class="reference"><a href="#cite_note-ReferenceA-4">&#91;4&#93;</a></sup> in the midst of the <a href="/wiki/Korean_War" title="Korean War">Korean War</a>, the first president of Korea, Syngman Rhee proposed the foundation of an educational <a href="/wiki/Institute" title="Institute">institute</a> that would provide expertise and hope to a lagging <a href="/wiki/Industrial_sector" class="mw-redirect" title="Industrial sector">industrial sector</a>. The driving force behind the proposal was the will and determination of a group of <a href="/wiki/Koreans" title="Koreans">Koreans</a> who had emigrated to <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a> 50 years earlier.
+</p><p>The name 'Inha' comes from the name of 'Incheon' and 'Ha' in Hawaii.<a rel="nofollow" class="external autonumber" href="http://www.kihoilbo.co.kr/?mod=news&amp;act=articleView&amp;idxno=786205">[1]</a> In March 1954, with the goal of establishing a world-class engineering university like MIT in the US, Dr. Lee Won Chul, an astronomer who obtained his Ph.D. degree, was the inaugural vice president Lee Ki-bong. On April 24, 1954, he had the entrance ceremony for 179 freshmen. On March 14, 1958, the establishment of a graduate school was approved.
+</p><p>Financial resources for the foundation came from the proceeds of the sale of the <a href="/w/index.php?title=Korean_Christian_Institute&amp;action=edit&amp;redlink=1" class="new" title="Korean Christian Institute (page does not exist)">Korean Christian Institute</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> an organization founded and managed by Dr. Rhee for the purpose of educating the children of the original emigrants, donations from Korean emigrants in Hawaii and domestic supporters, and a government subsidy. Along with school site donation from <a href="/w/index.php?title=Incheon_city&amp;action=edit&amp;redlink=1" class="new" title="Incheon city (page does not exist)">Incheon city</a>, the Ministry of Culture and Education approved the foundation of the Inha Institute in February, 1954.
+</p><p>Institute building construction began in earnest, to finally have the <a href="/wiki/Inha_Institute_of_Technology" class="mw-redirect" title="Inha Institute of Technology">Inha Institute of Technology</a> opened later the same year, in the scheme of the parent 6 Departments of Metallurgical, Mechanical, Mining, Electric, Shipbuilding and Chemical Engineering.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Time_of_expansion_and_development">Time of expansion and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=3" title="Edit section: Time of expansion and development">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Inha Institute of Technology, with its unique history and great mission to foster excellent students who would contribute to the development of the nation's scientific and technological industries, was funded to do so by the help of huge government subsidies and foreign aid from UNESCO and the German government.
+</p><p>In a move to improve the management of the Inha Institute, the Board of Trustees was reorganized and Dr. Choong-Hoon Jo and Dr. Jwa-Kyung Seong assumed the positions of chairman of the board and the dean, respectively. That change brought more energy to the management, and resulted in the introduction of state-of-the-art experimental and research equipment, construction of new school buildings, research centers, practice factories, experimental tanks, library, and gymnasium, and secured excellent professors, contributing to the development of the Korean industry.
+With the rapid development of the Inha Institute of Technology, its size and facilities surpassed those of other colleges.
+</p><p>It was inevitable for the institute to be elevated to the status of university, thus in December, 1971, the Ministry of Culture and Education approved the elevation and Dr. Jwa-Kyung Seong took office as the first president, solidifying the basis toward one of the prestigious universities in Korea.
+</p><p>Ultimately on Oct. 2, 2014, in collaboration between Inha University and the Government of Uzbekistan, <a href="/wiki/Inha_University_in_Tashkent" title="Inha University in Tashkent">Inha University in Tashkent</a>, the first South Korean university abroad, has been established, with a view to training professional global IT leaders in the country.
+The curriculum and academic program of this newly emerging international university comprise the same as those of Inha University in Korea.
+</p>
+<h2><span class="mw-headline" id="Academic_structure">Academic structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=4" title="Edit section: Academic structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Inha has 12 colleges in Engineering, Natural Sciences, Economics and Trade, Business Administration, Education, Law, Social Science, Humanities, Human Ecology, and Medicine, and 1 affiliation, 20 departments, 9 major fields of study. Inha University's Graduate school offers 47 fields of study for the Master's program and 41 for the Doctoral program. The Graduate School of Education has 31 majors for its Master's program and research course. The Graduate School of Business Administration offers 1 Master's program and 2 certificate courses and a part-time MBA program. The Graduate School of Engineering offers 14 majors in its Master's program and research courses. The Graduate School of Public Administration has 3 majors in its Master's program and research courses. Founded in 2000, the Graduate School of Information Technology and Telecommunications offers 1 major in its Master's program and the expanded and reorganized Graduate School of International Trade and Logistics now has 2 departments with 5 majors.
+</p>
+<h3><span class="mw-headline" id="Undergraduate_colleges">Undergraduate colleges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=5" title="Edit section: Undergraduate colleges">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Inha university consists of 11 undergraduate colleges:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030114000000">Frontier College</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030102000000">College of Engineering</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030104000000">College of Natural Sciences</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030106000000">College of Business Administration</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030107000000">College of Education</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030109000000">College of Social Sciences</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030110000000">College of Humanities</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030112000000">College of Medicine</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030116000000">College of Future Convergence</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030113000000">Arts and Sports</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_030115000000">Global Studies</a></li></ul>
+<h3><span class="mw-headline" id="Graduate_schools">Graduate schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=6" title="Edit section: Graduate schools">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Inha has 9 graduate schools: Graduate School, Graduate School of Information Technology and Telecommunications, Graduate School of Logistics, Law School, School of Medicine, Graduate School of Engineering, Graduate School of Education, Graduate School of Business Administration, Graduate School of Public Administration.
+</p>
+<h2><span class="mw-headline" id="Facilities">Facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=7" title="Edit section: Facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Attached_agencies">Attached agencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=8" title="Edit section: Attached agencies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Inha university has 7 attached <a href="/wiki/Agency_(law)" class="mw-redirect" title="Agency (law)">agencies</a> which are listed below:
+</p>
+<ul><li>Jung-Seok Memorial Library</li>
+<li>Language Training Center</li>
+<li>Center for Continuing Education</li>
+<li>Inha Museum</li>
+<li>Teachers Training Center</li>
+<li>Infirmary</li>
+<li>Jungseok Research Institute of International Logistics and Trade</li></ul>
+<h3><span class="mw-headline" id="Research_institutes">Research institutes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=9" title="Edit section: Research institutes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Inha university has about 60 research institutes attached to it.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> These institutes are listed below.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Institute
+</th>
+<th>Year of Establishment
+</th>
+<th>Institute
+</th>
+<th>Year of Establishment
+</th></tr>
+<tr>
+<td>Science &amp; Technology Research Institute
+</td>
+<td>1967
+</td>
+<td>Humanities Research Institute
+</td>
+<td>1974
+</td></tr>
+<tr>
+<td>Social Science Research Institute
+</td>
+<td>1980
+</td>
+<td>Basic Science Research Institute
+</td>
+<td>1979
+</td></tr>
+<tr>
+<td>Student Life Research Institute
+</td>
+<td>1973
+</td>
+<td>Aviation Management Research Institute
+</td>
+<td>1976
+</td></tr>
+<tr>
+<td>New Community Movement Research Institute
+</td>
+<td>1977
+</td>
+<td>Center for International Studies
+</td>
+<td>1985
+</td></tr>
+<tr>
+<td>Institute for Business &amp; Economics Research
+</td>
+<td>1985
+</td>
+<td>Center for Korean Studies
+</td>
+<td>1986
+</td></tr>
+<tr>
+<td>Ocean Science &amp; Technology Institute
+</td>
+<td>1987
+</td>
+<td>Sports Science Research Institute
+</td>
+<td>1987
+</td></tr>
+<tr>
+<td>Medical Toxicology Research Center
+</td>
+<td>1988
+</td>
+<td>Institute of Polymer Science &amp; Engineering
+</td>
+<td>1990
+</td></tr>
+<tr>
+<td>Institute of Advanced Materials
+</td>
+<td>1990
+</td>
+<td>Institute of Computer Science &amp; Applications
+</td>
+<td>1990
+</td></tr>
+<tr>
+<td>Management Research Institute
+</td>
+<td>1992
+</td>
+<td>Environmental Research Institute
+</td>
+<td>1992
+</td></tr>
+<tr>
+<td>Institute for Information and Electronics Research
+</td>
+<td>1992
+</td>
+<td>Institute for Mechanical Engineering
+</td>
+<td>1995
+</td></tr>
+<tr>
+<td>Research Institute of Ship and Ocean Engineering
+</td>
+<td>1994
+</td>
+<td>Educational Research Institute
+</td>
+<td>1994
+</td></tr>
+<tr>
+<td>Research Institute of Human Ecology
+</td>
+<td>1994
+</td>
+<td>Research Institute of Semiconductor Thin Film Technology
+</td>
+<td>1995
+</td></tr>
+<tr>
+<td>Research Institute of Chemical Dynamics
+</td>
+<td>1996
+</td>
+<td>Research Institute for Medical Sciences
+</td>
+<td>1996
+</td></tr>
+<tr>
+<td>Research Institute of Water Resources &amp; Systems
+</td>
+<td>1996
+</td>
+<td>Research Institute of Construction and Environment Systems
+</td>
+<td>1996
+</td></tr>
+<tr>
+<td>Geoinformatic Engineering Research Institute
+</td>
+<td>1998
+</td>
+<td>Yellow Sea Transportation System Research Center
+</td>
+<td>1996
+</td></tr>
+<tr>
+<td>Environmental Technology Center of Thermal Plasma
+</td>
+<td>2005
+</td>
+<td>Institute of Industrial Biotechnology
+</td>
+<td>2000
+</td></tr>
+<tr>
+<td>Institute for Legal Studies
+</td>
+<td>1999
+</td>
+<td>Regional Research Center for Coastal Environments of the Yellow Sea
+</td>
+<td>1999
+</td></tr>
+<tr>
+<td>Intelligent GIS Research Center
+</td>
+<td>1998
+</td>
+<td>UWB-ITRC Center
+</td>
+<td>2003
+</td></tr>
+<tr>
+<td>Institute of Industrial Biotechnology
+</td>
+<td>2000
+</td>
+<td>Institute for Culture Management and Psychology
+</td>
+<td>2005
+</td></tr>
+<tr>
+<td>Asia Pacific School of Logistics
+</td>
+<td>2004
+</td>
+<td>Regional Innovation Center For Light Materials
+</td>
+<td>1999
+</td></tr>
+<tr>
+<td>Center for Advanced Bioseparation Technology
+</td>
+<td>2000
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Acceptance_rate_and_Ranking">Acceptance rate and Ranking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=10" title="Edit section: Acceptance rate and Ranking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718"><table class="infobox vcard"><tbody><tr><th colspan="2" class="infobox-above"><span class="fn"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University rankings</a></span></th></tr><tr><th colspan="2" class="infobox-header" style="background:lavender;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1066479718">Global – Overall</th></tr><tr><th scope="row" class="infobox-label"><i><a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS</a></i> World(Inha University)</th><td class="infobox-data" style="width:35%;text-align:right">531-540 (2023)</td></tr><tr style="display:none"><th colspan="2">
+</th></tr></tbody></table>
+<p>INHA University is one of the top private universities in Incheon, South Korea. It is ranked #531-540 in QS World University Rankings 2023, and #120 in QS Asian University Rankings 2023.
+</p><p>In 2022, 43,062 applicants applied to 2,631 recruitments for early admission to INHA University, recording a competition rate of 16.37:1 (6.1%). This is the result of an increase of 2.10 points in competition rate from 14.27:1 (7.0%) and the increase in number of applicants by 4,936. Despite the continuous decline in school-age population, it showed the highest competition rate in the pasts four years.
+</p><p>Taejoon Jeon, the director of the Admissions Office, said “Despite various difficult conditions such as a decrease in the school age population and a decrease in the number of early admissions, INHA University's competition for early admissions has risen sharply. This is the result of the recent recognition of INHA University's potential, which has shown excellent business orders in various education and research fields."
+</p><p>Link to Competition Rate by Application Type, by Recruitment Unit:
+</p><p>http://ratio.uwayapply.com/Sl5KOHxXJUpmJSY6JkpwZlRm
+</p>
+<h2><span class="mw-headline" id="Notable_alumni">Notable alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=11" title="Edit section: Notable alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-Alumni plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article's list of alumni <b>may not follow Wikipedia's <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiability</a> policy</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Inha_University&amp;action=edit">improve this article</a> by removing names that do not have independent <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a> showing they merit inclusion in this article AND are alumni, or by incorporating the relevant publications into the body of the article through appropriate <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a>.</span>  <span class="date-container"><i>(<span class="date">April 2017</span>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1147244281">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="div-col" style="column-width: 20em;">
+<ul><li><a href="/wiki/Changmin" title="Changmin">Changmin</a> (<a href="/wiki/TVXQ" title="TVXQ">TVXQ</a>)</li>
+<li><a href="/wiki/Ren_(singer)" title="Ren (singer)">Choi Min-gi</a> (NU'EST)<sup id="cite_ref-nuest_8-0" class="reference"><a href="#cite_note-nuest-8">&#91;8&#93;</a></sup></li>
+<li><a href="/wiki/Choi_Si-won" title="Choi Si-won">Choi Si-won</a> (<a href="/wiki/Super_Junior" title="Super Junior">Super Junior</a>)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li><a href="/wiki/Lee_Min-hyuk_(rapper,_born_1990)" title="Lee Min-hyuk (rapper, born 1990)">Lee Minhyuk</a> (<a href="/wiki/BTOB" class="mw-redirect" title="BTOB">BTOB</a>)<a rel="nofollow" class="external autonumber" href="https://namu.wiki/w/%EC%9D%B4%EB%AF%BC%ED%98%81(%EB%B9%84%ED%88%AC%EB%B9%84)">[2]</a></li>
+<li><a href="/wiki/Chun_Ho-jin" title="Chun Ho-jin">Chun Ho-jin</a></li>
+<li><a href="/wiki/Chae_Sang-woo" title="Chae Sang-woo">Chae Sang-woo</a></li>
+<li><a href="/wiki/Han_Bo-bae" title="Han Bo-bae">Han Bo-bae</a></li>
+<li><a href="/wiki/Afzal_Husain" title="Afzal Husain">Afzal Husain</a></li>
+<li><a href="/wiki/Hwang_Min-hyun" title="Hwang Min-hyun">Hwang Min-hyun</a> (<a href="/wiki/NU%27EST" title="NU&#39;EST">NU'EST</a>/<a href="/wiki/Wanna_One" title="Wanna One">Wanna One</a>)<sup id="cite_ref-nuest_8-1" class="reference"><a href="#cite_note-nuest-8">&#91;8&#93;</a></sup></li>
+<li><a href="/wiki/Jeon_Hyoseong" class="mw-redirect" title="Jeon Hyoseong">Jeon Hyoseong</a> (<a href="/wiki/Secret_(South_Korean_band)" class="mw-redirect" title="Secret (South Korean band)">Secret</a>)</li>
+<li><a href="/wiki/Kim_Gura" class="mw-redirect" title="Kim Gura">Kim Gura</a></li>
+<li><a href="/wiki/Kim_Ki-Tae" class="mw-redirect" title="Kim Ki-Tae">Kim Ki-Tae</a></li>
+<li><a href="/wiki/Kim_Ryeowook" class="mw-redirect" title="Kim Ryeowook">Kim Ryeowook</a> (<a href="/wiki/Super_Junior" title="Super Junior">Super Junior</a>)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li><a href="/wiki/Kim_Sung-ryung" title="Kim Sung-ryung">Kim Sung-ryung</a></li>
+<li><a href="/wiki/Lee_Hyun-Seung_(baseball)" class="mw-redirect" title="Lee Hyun-Seung (baseball)">Lee Hyun-seung</a></li>
+<li><a href="/wiki/Lim_Kyung-Wan" class="mw-redirect" title="Lim Kyung-Wan">Lim Kyung-Wan</a></li>
+<li><a href="/wiki/No_Min-woo" title="No Min-woo">No Min-woo</a> (<a href="/wiki/TRAX_(band)" class="mw-redirect" title="TRAX (band)">TRAX</a>)</li>
+<li><a href="/wiki/Park_Chanyeol" title="Park Chanyeol">Park Chanyeol</a> (<a href="/wiki/Exo_(group)" class="mw-redirect" title="Exo (group)">Exo</a>)</li>
+<li><a href="/wiki/Suho" title="Suho">Kim Jun-myeon</a> (<a href="/wiki/Exo_(group)" class="mw-redirect" title="Exo (group)">Exo</a>)</li>
+<li><a href="/wiki/Park_Cho-a" title="Park Cho-a">Park Cho-a</a> (<a href="/wiki/AOA_(group)" title="AOA (group)">AOA</a>)</li>
+<li><a href="/wiki/Seo_Jun-young" title="Seo Jun-young">Seo Jun-young</a></li>
+<li><a href="/wiki/Song_Ji-Man" class="mw-redirect" title="Song Ji-Man">Song Ji-Man</a></li>
+<li><a href="/wiki/Song_Yoo-geun" title="Song Yoo-geun">Song Yoo-geun</a></li>
+<li><a href="/w/index.php?title=Isak_Rajjak_Shaikh&amp;action=edit&amp;redlink=1" class="new" title="Isak Rajjak Shaikh (page does not exist)">Isak Rajjak Shaikh</a></li>
+<li><a href="/wiki/Park_Kyung" title="Park Kyung">Park Kyung</a> (<a href="/wiki/Block_B" title="Block B">Block B</a>)</li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eng.inha.ac.kr/intro/statistical.asp#02">inha university's statistical annual report: number of faculty</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080903054246/http://eng.inha.ac.kr/intro/statistical.asp">Archived</a> 2008-09-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-eng.inha.ac.kr-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-eng.inha.ac.kr_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eng.inha.ac.kr_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eng.inha.ac.kr/intro/statistical.asp">inha university's statistical annual report</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080903054246/http://eng.inha.ac.kr/intro/statistical.asp">Archived</a> 2008-09-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://site.inha.ac.kr/xelpa/users/u7/0_1.jsp">Global U8 Consortium website</a> <a rel="nofollow" class="external text" href="http://webarchive.loc.gov/all/20070629181731/http://site.inha.ac.kr/xelpa/users/u7/0_1.jsp">Archived</a> 2007-06-29 at the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> Web Archives</span>
+</li>
+<li id="cite_note-ReferenceA-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-ReferenceA_4-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1133582631">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080929144754/http://eng.inha.ac.kr/intro/trace.asp">"Traces - INHA University"</a>. Archived from <a rel="nofollow" class="external text" href="http://eng.inha.ac.kr/intro/trace.asp">the original</a> on 2008-09-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Traces+-+INHA+University&amp;rft_id=http%3A%2F%2Feng.inha.ac.kr%2Fintro%2Ftrace.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081119155804/http://www.kinderinkorea.com/kcu.htm">"K.C.U."</a> Archived from <a rel="nofollow" class="external text" href="http://www.kinderinkorea.com/kcu.htm">the original</a> on 2008-11-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=K.C.U.&amp;rft_id=http%3A%2F%2Fwww.kinderinkorea.com%2Fkcu.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100309092235/http://eng.inha.ac.kr/intro/history_50.asp">"The 1950s - INHA University"</a>. <i>eng.inha.ac.kr</i>. Archived from <a rel="nofollow" class="external text" href="http://eng.inha.ac.kr/intro/history_50.asp">the original</a> on 2010-03-09.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=eng.inha.ac.kr&amp;rft.atitle=The+1950s+-+INHA+University&amp;rft_id=http%3A%2F%2Feng.inha.ac.kr%2Fintro%2Fhistory_50.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_040103000000">http://www.inha.ac.kr/mbshome/mbs/eng/subview.do?id=eng_040103000000</a><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Bare_URLs" title="Wikipedia:Bare URLs"><span title="A full citation is required to prevent link rot. (April 2023)">bare URL</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-nuest-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-nuest_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nuest_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1 cs1-prop-foreign-lang-source"><a rel="nofollow" class="external text" href="http://star.mt.co.kr/stview.php?no=2013111309394673423&amp;type=3">"뉴이스트 민현·렌·백호, 수시합격..14학번 대학생"</a> (in Korean). starnews<span class="reference-accessdate">. Retrieved <span class="nowrap">4 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%EB%89%B4%EC%9D%B4%EC%8A%A4%ED%8A%B8+%EB%AF%BC%ED%98%84%C2%B7%EB%A0%8C%C2%B7%EB%B0%B1%ED%98%B8%2C+%EC%88%98%EC%8B%9C%ED%95%A9%EA%B2%A9..14%ED%95%99%EB%B2%88+%EB%8C%80%ED%95%99%EC%83%9D&amp;rft_id=http%3A%2F%2Fstar.mt.co.kr%2Fstview.php%3Fno%3D2013111309394673423%26type%3D3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140325211416/http://star.mt.co.kr/stviewEng.php?type=3&amp;no=2012022511312287920">"Super Junior's Choi Siwon graduates from Inha University"</a>. <i>Star News</i>. 25 February 2012. Archived from <a rel="nofollow" class="external text" href="http://star.mt.co.kr/stviewEng.php?type=3&amp;no=2012022511312287920">the original</a> on 25 March 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Star+News&amp;rft.atitle=Super+Junior%27s+Choi+Siwon+graduates+from+Inha+University&amp;rft.date=2012-02-25&amp;rft_id=http%3A%2F%2Fstar.mt.co.kr%2FstviewEng.php%3Ftype%3D3%26no%3D2012022511312287920&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Lee, Nancy <a rel="nofollow" class="external text" href="http://enewsworld.mnet.com/enews/contents.asp?idx=3804">"Super Junior's Ryeowook Graduates from College"</a> <a rel="nofollow" class="external text" href="https://archive.today/20120708182330/http://enewsworld.mnet.com/enews/contents.asp?idx=3804">Archived</a> 2012-07-08 at <a href="/wiki/Archive.today" title="Archive.today">archive.today</a> <i>CJ E&amp;M enewsWorld</i>. 24 February 2012. Retrieved 2012-04-10</span>
+</li>
+</ol></div></div>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.topuniversities.com/universities/inha-university">"Inha University"</a>. <i>Top Universities</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2022-10-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Top+Universities&amp;rft.atitle=Inha+University&amp;rft_id=https%3A%2F%2Fwww.topuniversities.com%2Funiversities%2Finha-university&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1133582631"><cite id="CITEREFUWay_Apply2022" class="citation web cs1">UWay Apply, UWay Apply (23 September 2022). <a rel="nofollow" class="external text" href="http://ratio.uwayapply.com/Sl5KOHxXJUpmJSY6JkpwZlRm">"INHA University Recruitment for the 2023 academic year"</a>. <i>Uway Apply</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 September</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Uway+Apply&amp;rft.atitle=INHA+University+Recruitment+for+the+2023+academic+year&amp;rft.date=2022-09-23&amp;rft.aulast=UWay+Apply&amp;rft.aufirst=UWay+Apply&amp;rft_id=http%3A%2F%2Fratio.uwayapply.com%2FSl5KOHxXJUpmJSY6JkpwZlRm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInha+University" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inha_University&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://eng.inha.ac.kr">Inha University Homepage, in English</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.inha.uz">Inha University in Tashkent Homepage</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Hanjin_Group" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Hanjin" title="Template:Hanjin"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hanjin" title="Template talk:Hanjin"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hanjin&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Hanjin_Group" style="font-size:114%;margin:0 4em"><a href="/wiki/Hanjin" title="Hanjin">Hanjin Group</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holding Company</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Hanjin KAL</li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="9" style="width:1px;padding:0 0 0 2px"><div><a href="/wiki/File:Hanjin_logo.svg" class="image"><img alt="Hanjin logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hanjin_logo.svg/100px-Hanjin_logo.svg.png" decoding="async" width="100" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hanjin_logo.svg/150px-Hanjin_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hanjin_logo.svg/200px-Hanjin_logo.svg.png 2x" data-file-width="293" data-file-height="61" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Aviation</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Air_Korea" class="mw-redirect" title="Air Korea">Air Korea</a></li>
+<li>Incheon Aviation Technology</li>
+<li><a href="/wiki/Jin_Air" title="Jin Air">Jin Air</a></li>
+<li><a href="/wiki/KAL_Catering" class="mw-redirect" title="KAL Catering">KAL Catering</a></li>
+<li><a href="/w/index.php?title=Korea_Airport_Service&amp;action=edit&amp;redlink=1" class="new" title="Korea Airport Service (page does not exist)">Korea Airport Service</a></li>
+<li><a href="/wiki/Korean_Air" title="Korean Air">Korean Air</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ground Transport</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Hanjin Busan Newport</li>
+<li>Hanjin Incheon Container Terminal</li>
+<li>Hanjin Transportation</li>
+<li>Seoul Integrated Freight Terminal</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tourism and Real Estate</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Air Total Service</li>
+<li>Hanjin Travel</li>
+<li>Jungseok Enterprise</li>
+<li>Wangsan Marina</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Information Service</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>CyberSky</li>
+<li>Global Logistics System Korea</li>
+<li>Hanjin Information Systems &amp; Telecommunication</li>
+<li>TOPAS</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-Profit Corporations</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/w/index.php?title=Inha_Technical_College&amp;action=edit&amp;redlink=1" class="new" title="Inha Technical College (page does not exist)">Inha Technical College</a></li>
+<li><a class="mw-selflink selflink">Inha University</a></li>
+<li><a href="/w/index.php?title=Inha_University_Hospital&amp;action=edit&amp;redlink=1" class="new" title="Inha University Hospital (page does not exist)">Inha University Hospital</a></li>
+<li>Il Woo Foundation</li>
+<li>Jungseok Logistics Foundation</li>
+<li>Jungseok-Inha Educational Foundation</li>
+<li><a href="/wiki/Korea_Aerospace_University" title="Korea Aerospace University">Korea Aerospace University</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Foreign Corporations</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Hanjin International Corporation</li>
+<li>Waikiki Resort Hotel</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/HJ_Shipbuilding_%26_Construction" title="HJ Shipbuilding &amp; Construction">Hanjin Heavy Industries &amp; Construction Holdings</a></li>
+<li><a href="/wiki/Hanjin_Shipping" title="Hanjin Shipping">Hanjin Shipping</a> (defunct)</li>
+<li><a href="/wiki/Incheon_Korean_Air_Jumbos" title="Incheon Korean Air Jumbos">Incheon Korean Air Jumbos</a></li>
+<li><a href="/wiki/Meritz_Financial_Group" title="Meritz Financial Group">Meritz Financial</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/w/index.php?title=Cho_Choong-hoon&amp;action=edit&amp;redlink=1" class="new" title="Cho Choong-hoon (page does not exist)">Cho Choong-hoon</a> (founder)</li>
+<li><a href="/wiki/Cho_Yang-ho" title="Cho Yang-ho">Cho Yang-ho</a></li>
+<li><a href="/wiki/Cho_Won-tae_(Walter_Cho)" class="mw-redirect" title="Cho Won-tae (Walter Cho)">Cho Won-tae</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Global_U8_Consortium_(GU8)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_U8_Consortium" title="Template:Global U8 Consortium"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Global_U8_Consortium&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Global U8 Consortium (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Global_U8_Consortium&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Global_U8_Consortium_(GU8)" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_U8_Consortium" title="Global U8 Consortium">Global U8 Consortium (GU8)</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">China</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Xiamen_University" title="Xiamen University">Xiamen University</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Malaysia</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Universiti_Malaysia_Perlis" title="Universiti Malaysia Perlis">Universiti Malaysia Perlis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">United Kingdom</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/University_of_Hull" title="University of Hull">University of Hull</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South Korea</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Inha University</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">France</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/University_of_Le_Havre" class="mw-redirect" title="University of Le Havre">University of Le Havre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germany</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Otto_von_Guericke_University_Magdeburg" title="Otto von Guericke University Magdeburg">Otto von Guericke University Magdeburg</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Brazil</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>University of Fortaleza</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Israel</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/University_of_Haifa" title="University of Haifa">University of Haifa</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="geo-inline-hidden"><style data-mw-deduplicate="TemplateStyles:r1156832818">.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}</style><span class="plainlinks nourlexpansion"><a class="external text" href="//geohack.toolforge.org/geohack.php?pagename=Inha_University&amp;params=37_26_58_N_126_39_16_E_source:kolossus-kowiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°26′58″N</span> <span class="longitude">126°39′16″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.44944°N 126.65444°E</span><span style="display:none">&#xfeff; / <span class="geo">37.44944; 126.65444</span></span></span></a></span></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q488851#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q488851#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q488851#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" class="noprint" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://isni.org/isni/0000000123648385">ISNI</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/155831969">VIAF</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/131879067">2</a></span></li></ul></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n78071789/">WorldCat</a></span>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/viaf-155831969/">2</a></span></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/5024487-5">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007444026505171">Israel</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n78071789">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35972649">Australia</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2384
+Cached time: 20230525084612
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.504 seconds
+Real time usage: 0.650 seconds
+Preprocessor visited node count: 3398/1000000
+Post‐expand include size: 83666/2097152 bytes
+Template argument size: 7547/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49758/5000000 bytes
+Lua time usage: 0.335/10.000 seconds
+Lua memory usage: 21823836/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  581.539      1 -total
+ 30.99%  180.221      6 Template:Infobox
+ 28.20%  163.968      1 Template:Infobox_university
+ 20.72%  120.502      1 Template:Reflist
+ 16.53%   96.145      6 Template:Lang
+ 13.93%   81.008      5 Template:Cite_web
+ 12.09%   70.305      2 Template:Navbox
+ 11.88%   69.069      1 Template:Hanjin
+  5.25%   30.537      1 Template:Infobox_Korean_name
+  4.96%   28.852      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1748879-0!canonical and timestamp 20230525084611 and revision id 1155678295. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Inha_University&amp;oldid=1155678295">https://en.wikipedia.org/w/index.php?title=Inha_University&amp;oldid=1155678295</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Inha_University" title="Category:Inha University">Inha University</a></li><li><a href="/wiki/Category:Hanjin_Group" title="Category:Hanjin Group">Hanjin Group</a></li><li><a href="/wiki/Category:1954_establishments_in_South_Korea" title="Category:1954 establishments in South Korea">1954 establishments in South Korea</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_1954" title="Category:Educational institutions established in 1954">Educational institutions established in 1954</a></li><li><a href="/wiki/Category:Private_universities_and_colleges_in_South_Korea" title="Category:Private universities and colleges in South Korea">Private universities and colleges in South Korea</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Webarchive_template_other_archives" title="Category:Webarchive template other archives">Webarchive template other archives</a></li><li><a href="/wiki/Category:All_articles_with_bare_URLs_for_citations" title="Category:All articles with bare URLs for citations">All articles with bare URLs for citations</a></li><li><a href="/wiki/Category:Articles_with_bare_URLs_for_citations_from_April_2023" title="Category:Articles with bare URLs for citations from April 2023">Articles with bare URLs for citations from April 2023</a></li><li><a href="/wiki/Category:CS1_Korean-language_sources_(ko)" title="Category:CS1 Korean-language sources (ko)">CS1 Korean-language sources (ko)</a></li><li><a href="/wiki/Category:Webarchive_template_archiveis_links" title="Category:Webarchive template archiveis links">Webarchive template archiveis links</a></li><li><a href="/wiki/Category:Articles_containing_Korean-language_text" title="Category:Articles containing Korean-language text">Articles containing Korean-language text</a></li><li><a href="/wiki/Category:Articles_using_infobox_university" title="Category:Articles using infobox university">Articles using infobox university</a></li><li><a href="/wiki/Category:Pages_using_infobox_university_with_the_image_name_parameter" title="Category:Pages using infobox university with the image name parameter">Pages using infobox university with the image name parameter</a></li><li><a href="/wiki/Category:Pages_using_infobox_university_with_the_affiliations_parameter" title="Category:Pages using infobox university with the affiliations parameter">Pages using infobox university with the affiliations parameter</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2019" title="Category:Articles with unsourced statements from January 2019">Articles with unsourced statements from January 2019</a></li><li><a href="/wiki/Category:Articles_using_infobox_templates_with_no_data_rows" title="Category:Articles using infobox templates with no data rows">Articles using infobox templates with no data rows</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_April_2017" title="Category:Articles needing cleanup from April 2017">Articles needing cleanup from April 2017</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_ISNI_identifiers" title="Category:Articles with ISNI identifiers">Articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_WorldCat_identifiers" title="Category:Articles with WorldCat identifiers">Articles with WorldCat identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_J9U_identifiers" title="Category:Articles with J9U identifiers">Articles with J9U identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NLA_identifiers" title="Category:Articles with NLA identifiers">Articles with NLA identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 19 May 2023, at 07:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Inha_University&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class='vector-settings'>
+	
+<button
+	id=""
+	class="mw-ui-button mw-ui-icon-element vector-limited-width-toggle"
+	><span class="mw-ui-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+
+</button>
+
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw2407","wgBackendResponseTime":102,"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.650","ppvisitednodes":{"value":3398,"limit":1000000},"postexpandincludesize":{"value":83666,"limit":2097152},"templateargumentsize":{"value":7547,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49758,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  581.539      1 -total"," 30.99%  180.221      6 Template:Infobox"," 28.20%  163.968      1 Template:Infobox_university"," 20.72%  120.502      1 Template:Reflist"," 16.53%   96.145      6 Template:Lang"," 13.93%   81.008      5 Template:Cite_web"," 12.09%   70.305      2 Template:Navbox"," 11.88%   69.069      1 Template:Hanjin","  5.25%   30.537      1 Template:Infobox_Korean_name","  4.96%   28.852      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.335","limit":"10.000"},"limitreport-memusage":{"value":21823836,"limit":52428800}},"cachereport":{"origin":"mw2384","timestamp":"20230525084612","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Inha University","url":"https:\/\/en.wikipedia.org\/wiki\/Inha_University","sameAs":"http:\/\/www.wikidata.org\/entity\/Q488851","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q488851","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-16T11:12:47Z","dateModified":"2023-05-19T07:04:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/5\/5f\/Inha_University.svg","headline":"university in Incheon, South Korea"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Inha University","url":"https:\/\/en.wikipedia.org\/wiki\/Inha_University","sameAs":"http:\/\/www.wikidata.org\/entity\/Q488851","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q488851","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-16T11:12:47Z","dateModified":"2023-05-19T07:04:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/5\/5f\/Inha_University.svg","headline":"university in Incheon, South Korea"}</script>
+</body>
+</html>

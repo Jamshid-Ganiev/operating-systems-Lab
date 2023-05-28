@@ -1,0 +1,1 @@
+This is the content for myFile1 file. An operating system us a program that acts as an interface between the computer user and somputer hardware, and controls the execution of programs.
