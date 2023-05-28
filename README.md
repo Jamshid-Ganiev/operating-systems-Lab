@@ -115,6 +115,20 @@ The `service_control.sh` script manages the `nginx` service. It checks if `nginx
 
 # Week 13
 
+### demo screenshots:
+
+#### Creating shell files:
+
+1. ![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/db08654d-eb4b-47ad-90c2-14b40093e63d)
+
+#### Executing files: 
+1. ![image](https://github.com/Jamshid-Ganiev/operating-systems-Lab/assets/84252587/35b0c6a4-4850-4cd5-8660-62384bddabfa)
+
+
+
+
+
+
 
 
 
